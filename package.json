@@ -1,0 +1,25 @@
+{
+  "name": "stackcrte",
+  "version": "1.0.0",
+  "main": "bin/index.js",
+  "scripts": {
+    "start": "node bin/index.js"
+  },
+  "bin": {
+    "stackcrte": "./bin/index.js"
+  },
+  "keywords": [
+    "cli",
+    "frontend",
+    "create",
+    "frameworks",
+    "npx"
+  ],
+  "author": "Ramger Duran <ramger@komadev.com>",
+  "license": "MTI",
+  "description": "A global CLI tool to quickly scaffold projects with popular frontend frameworks. Choose from React, Vue, Angular, Svelte, and Astro to start your web development projects with ease.",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "inquirer": "^8.2.6"
+  }
+}
