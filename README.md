@@ -19,7 +19,7 @@
 Para instalar **stackcrte** globalmente, usa el siguiente comando: 
 
 ```bash
-npm install -g stackcrte
+npm install -g stackcrte-npm
 ```
 
 ---
